@@ -10,10 +10,10 @@ Find your Slack's application directory.
 * Mac: `/Applications/Slack.app/Contents/`
 * Linux: `/usr/lib/slack/` (Debian-based)
 
-Copy the code from
+Copy the code in `ssb-interop.js` from
 
 ```javascript
-let dark_css =
+let dark_css = `
 ```
 to end of file.
 
