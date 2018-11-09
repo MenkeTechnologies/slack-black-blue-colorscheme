@@ -1,5 +1,4 @@
 # slack-black-blue-colorscheme
-# created by MenkeTechnologies
 
 ![screenshot](/screen.png)
 
@@ -25,5 +24,6 @@ For versions after and including `3.0.0` the same code must be added to the foll
 `resources\app.asar.unpacked\src\static\ssb-interop.js`
 
 
-
 reference @ [original dark colorscheme and readme](https://github.com/widget-/slack-black-theme)
+
+# created by MenkeTechnologies
