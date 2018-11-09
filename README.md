@@ -1,6 +1,8 @@
 # slack-black-blue-colorscheme
 # created by MenkeTechnologies
 
+![screenshot](/screen.png)
+
 # Installing into Slack
 
 Find your Slack's application directory.
@@ -23,6 +25,5 @@ For versions after and including `3.0.0` the same code must be added to the foll
 `resources\app.asar.unpacked\src\static\ssb-interop.js`
 
 
-![screenshot](/screen.png)
 
 reference @ [original dark colorscheme and readme](https://github.com/widget-/slack-black-theme)
